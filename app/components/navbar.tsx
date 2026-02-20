@@ -45,11 +45,11 @@ export default function Navbar() {
                     <Link href="/user/wishlist-history" className="text-sm text-gray-600 hover:text-black">
                         Wishlist
                     </Link>
-                    <Link href="/auth/registration" className="text-sm text-gray-600 hover:text-black">
-                        Sign Up
-                    </Link>
                     <Link href="/auth/login" className="text-sm text-gray-600 hover:text-black">
                         Login
+                    </Link>
+                    <Link href="/auth/registration" className="text-sm text-gray-600 hover:text-black">
+                        Registration
                     </Link>
                 </div>
             </div>
